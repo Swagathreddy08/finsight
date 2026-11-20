@@ -1,0 +1,16 @@
+.env
+.env.local
+.env.production
+*.pyc
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+node_modules/
+.next/
+dist/
+coverage/
+*.egg-info/
+.DS_Store
+postgres_data/
+redis_data/
